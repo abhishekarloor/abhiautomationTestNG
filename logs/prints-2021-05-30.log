@@ -1,0 +1,6 @@
+23:22:00.458 [TestNG-tests-1] INFO  resources.base - browser closed
+23:22:00.582 [TestNG-tests-3] INFO  resources.base - browser closed for signin page test
+23:22:07.925 [TestNG-tests-2] INFO  resources.base - Clicked on Register link in landing page
+23:22:11.064 [TestNG-tests-2] INFO  resources.base - Clicked on Signup  button
+23:22:11.110 [TestNG-tests-2] INFO  resources.base - correct error message displayed for existing user error
+23:22:13.600 [TestNG-tests-2] INFO  resources.base - Navigated back to landing page

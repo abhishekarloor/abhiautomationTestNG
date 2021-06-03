@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="academyTest.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Validate SignInPage(failed)">
+    <classes>
+      <class name="academyTest.SignInPageTest">
+        <methods>
+          <include name="verifyTitle"/>
+          <include name="doSignIn"/>
+          <include name="initDriver"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- academyTest.SignInPageTest -->
+    </classes>
+  </test> <!-- Validate SignInPage(failed) -->
+</suite> <!-- Failed suite [Suite] -->

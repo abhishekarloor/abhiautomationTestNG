@@ -1,0 +1,5 @@
+00:58:46.463 [TestNG-tests-2] INFO  resources.base - Clicked on Register link in landing page
+00:58:53.480 [TestNG-tests-2] INFO  resources.base - Clicked on Signup  button
+00:58:53.683 [TestNG-tests-2] INFO  resources.base - correct error message displayed for existing user error
+00:58:58.838 [TestNG-tests-2] INFO  resources.base - Navigated back to landing page
+00:58:59.220 [TestNG-tests-2] INFO  resources.base - browser closed for Register Page test

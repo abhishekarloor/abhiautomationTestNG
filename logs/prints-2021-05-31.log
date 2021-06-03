@@ -1,0 +1,6 @@
+00:58:28.839 [TestNG-tests-3] INFO  resources.base - Title is validated successfully
+00:58:30.566 [TestNG-tests-1] INFO  resources.base - login successfull
+00:58:35.780 [TestNG-tests-3] INFO  resources.base - Clicked on login button
+00:58:36.328 [TestNG-tests-3] INFO  resources.base - Invalid message displayed succesfully in login page
+00:58:40.322 [TestNG-tests-3] INFO  resources.base - browser closed for signin page test
+00:58:44.066 [TestNG-tests-1] INFO  resources.base - browser closed
